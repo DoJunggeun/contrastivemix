@@ -53,7 +53,7 @@ python jax_train.py \
   --contrastive --cm_loss_weight 0.1
 ```
 
-## Evaluation
+## Evaluation
 ```
 lang=arabic  
 # one of {'arabic', 'bengali', 'finnish', 'indonesian', 'japanese', 'korean', 'russian', 'thai'} for Mr.TyDi
