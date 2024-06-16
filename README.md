@@ -1,5 +1,5 @@
 # ContrastiveMix: Overcoming Code-Mixing Dilemma in Cross-Lingual Transfer for Information Retrieval
-This repository is the implementation of our NAACL 2024 Paper **ContrastiveMix: Overcoming Code-Mixing Dilemma in Cross-Lingual Transfer for Information Retrieval**. This work is based on [Tevatron](https://github.com/texttron/tevatron), [Pyserini](https://github.com/castorini/pyserini), dictionaries downloaded from [MUSE](https://github.com/facebookresearch/MUSE) are included in `utils/dict`.
+This repository is the implementation of our NAACL 2024 Paper [ContrastiveMix: Overcoming Code-Mixing Dilemma in Cross-Lingual Transfer for Information Retrieval](https://aclanthology.org/2024.naacl-short.17/). This work is based on [Tevatron](https://github.com/texttron/tevatron), [Pyserini](https://github.com/castorini/pyserini), dictionaries downloaded from [MUSE](https://github.com/facebookresearch/MUSE) are included in `utils/dict`.
 
 
 
